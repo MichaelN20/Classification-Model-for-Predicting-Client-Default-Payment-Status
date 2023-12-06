@@ -1,5 +1,9 @@
 # **Classification-Model-for-Predicting-Client-Default-Payment-Status**
 
+### **URL:**
+
+[Deployment]([https://public.tableau.com/views/AngkaHarapanHidupInternasional/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://huggingface.co/spaces/michaeln20/Classification-Model-for-Predicting-Client-Default-Payment-Status))
+
 ### **Informasi Dataset:**
 
 Dataset yang digunakan berisikan data-data mengenai kredit klien yang membantu kita memahami dan memprediksi kemampuan klien membayar kredit pada bulan berikutnya.
