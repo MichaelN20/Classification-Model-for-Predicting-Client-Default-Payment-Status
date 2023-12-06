@@ -2,7 +2,7 @@
 
 ### **URL:**
 
-[Deployment]([https://public.tableau.com/views/AngkaHarapanHidupInternasional/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](https://huggingface.co/spaces/michaeln20/Classification-Model-for-Predicting-Client-Default-Payment-Status))
+[Deployment](https://huggingface.co/spaces/michaeln20/Classification-Model-for-Predicting-Client-Default-Payment-Status)
 
 ### **Informasi Dataset:**
 
