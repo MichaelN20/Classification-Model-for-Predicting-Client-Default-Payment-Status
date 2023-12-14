@@ -1,8 +1,8 @@
 # **Classification-Model-for-Predicting-Client-Default-Payment-Status**
 
-### **URL:**
+### **Deployment URL:**
 
-[Deployment](https://huggingface.co/spaces/michaeln20/Classification-Model-for-Predicting-Client-Default-Payment-Status)
+[HuggingFace](https://huggingface.co/spaces/michaeln20/Classification-Model-for-Predicting-Client-Default-Payment-Status)
 
 ### **Informasi Dataset:**
 
